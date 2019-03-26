@@ -41,7 +41,7 @@ Want to contribute? The team encourages community feedback and contributions. Pl
 If Calculator is not working properly, please file a report in the [Feedback Hub](https://insider.windows.com/en-us/fb/?contextid=130).
 We also welcome [issues submitted on GitHub](https://github.com/Microsoft/calculator/issues).
 
-## Roadmap
+## Roadmap bug=003
 For information regarding Windows Calculator plans and release schedule, please see the [Windows Calculator Roadmap](docs/Roadmap.md).
 
 ## Data / Telemetry
