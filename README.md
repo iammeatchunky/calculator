@@ -16,7 +16,7 @@ Calculator ships regularly with new features and bug fixes. You can get the late
 - Conversion between many units of measurement.
 - Currency conversion based on data retrieved from [Bing](https://www.bing.com).
 
-## Getting started
+## Getting started bug/002
 Prerequisites:
 - Your computer must be running Windows 10, version 1803 or newer.
 - Install the latest version of [Visual Studio](https://developer.microsoft.com/en-us/windows/downloads) (the free community edition is sufficient).
