@@ -3,6 +3,7 @@
 
     <PropertyGroup>
         <PGOBuildMode Condition="'$(PGOBuildMode)'==''">Optimize</PGOBuildMode>
+        <none>true</none>
     </PropertyGroup>
   
 </Project>
