@@ -1,4 +1,4 @@
-# Calculator bug 001
+# Calculator bug 002
 The Windows Calculator app is a modern Windows app written in C++ that ships pre-installed with Windows.
 The app provides standard, scientific, and programmer calculator functionality, as well as a set of converters between various units of measurement and currencies.
 
@@ -50,7 +50,7 @@ Read our [privacy statement](https://go.microsoft.com/fwlink/?LinkId=521839) to 
 Telemetry is disabled in development builds by default, and can be enabled with the `SEND_TELEMETRY`
 build flag.
 
-## Reporting Security Issues
+## Reporting Security Issues bug 004
 Security issues and bugs should be reported privately, via email, to the
 Microsoft Security Response Center (MSRC) at <[secure@microsoft.com](mailto:secure@microsoft.com)>.
 You should receive a response within 24 hours. If for some reason you do not, please follow up via
